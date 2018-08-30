@@ -36,7 +36,7 @@ var art = require('animals-art-ascii');
 art.printAnimal("snake");
 
 //or, define it by a variable.
-const snake = animals.getAnimal("snake");
+const snake = art.getAnimal("snake");
 ```
 
 ## Contribution
