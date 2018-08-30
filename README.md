@@ -15,6 +15,7 @@ npm install animals-art-ascii --save
 * snake
 * snail
 * lion
+* cow
 
 ## Usage
 
