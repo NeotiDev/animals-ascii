@@ -13,8 +13,8 @@
          
          
      	if(command == "ascii"){
-      const animal = args.join(" ");
-	  if(!animal) return message.reply(`**True Format:** !ascii cat/dog/snake/lion/cow/snail`);
+      const animal = args.join(" "); // Get the value user typed.
+	  if(!animal) return message.reply(`**True Format:** !ascii cat/dog/snake/lion/cow/snail`); // If user didn't type anything, warn user.
 		
 		// Define it by a variable.
 const animalPrinted = art.getAnimal(animal);
