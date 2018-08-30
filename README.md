@@ -4,7 +4,7 @@ Want to have some animals textart included in your project or console? Here you 
 ## Installation
 Use npm:
 ```
-npm install animals-art-ascii --save
+npm install animals-ascii --save
 ```
 
 ## Animals in this version
@@ -16,7 +16,6 @@ npm install animals-art-ascii --save
 * snail
 * lion
 * cow
-* bear
 
 ## Usage
 
@@ -32,7 +31,7 @@ This function will return the ascii art.
 
 ## Example
 ```
-var art = require('animals-art-ascii');
+var art = require('animals-ascii');
 
 //Print the animal to console
 art.printAnimal("snake");
