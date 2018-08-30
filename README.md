@@ -1,4 +1,4 @@
-# Animal Arts ASCII
+# animals-ascii
 Want to have some animals textart included in your project or console? Here you are!
 
 ## Installation
