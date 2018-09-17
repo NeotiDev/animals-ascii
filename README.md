@@ -1,6 +1,25 @@
 # animals-ascii
 Want to have some animals textart included in your project or console? Here you are!
 
+
+<div align="center">
+
+  <p>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"><!--
+--><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
+  </p>
+
+<p>
+  <a href="https://github.com/NeotiDev/animals-ascii/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/NeotiDev/animals-ascii.svg?style=for-the-badge" alt="License"></a>
+  </p>
+  
+  <p>
+    <p>
+    <a href="https://discord.gg/NqMA6xC"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
+  </p>
+  </div>
+
+
 ## Installation
 Use npm:
 ```
