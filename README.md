@@ -10,7 +10,7 @@ Want to have some animals textart included in your project or console? Here you 
   </p>
 
 <p>
-  <a href="https://github.com/NeotiDev/animals-ascii/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/NeotiDev/animals-ascii.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/NeotiDev/animals-ascii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/NeotiDev/animals-ascii.svg?style=for-the-badge" alt="License"></a>
   </p>
   
   <p>
