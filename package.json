@@ -1,5 +1,5 @@
 {
-  "name": "animals-ascii",
+  "name": "animals-ascii-beta",
   "version": "1.1.1",
   "description": "A library for printing pre-configured ascii animals.",
   "main": "animals-ascii.js",
