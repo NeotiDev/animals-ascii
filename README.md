@@ -35,7 +35,6 @@ npm install animals-ascii --save
 * snail
 * lion
 * cow
-* moose
 
 ## Usage
 
