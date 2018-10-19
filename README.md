@@ -18,7 +18,7 @@ Want to have some animals textart included in your project or console? Here you 
     <a href="https://discord.gg/NqMA6xC"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
   </p>
   <p>
-  <img src="blob:https://carbon.now.sh/cc448160-0860-48cd-a469-c18d283e30da" alt="Example">
+  <img src="https://github.com/NeotiDev/animals-ascii/blob/master/examples/example.png?raw=true" alt="Example">
   </p>
   </div>
 
