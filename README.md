@@ -18,7 +18,7 @@ Want to have some animals textart included in your project or console? Here you 
     <a href="https://discord.gg/NqMA6xC"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
   </p>
   <p>
-  ![Example](https://carbon.now.sh/cc448160-0860-48cd-a469-c18d283e30da)
+  <img src="https://carbon.now.sh/cc448160-0860-48cd-a469-c18d283e30da" alt="Example">
   </p>
   </div>
 
@@ -64,3 +64,4 @@ const snake = art.getAnimal("snake");
 
 ## Contribution
 Contributing is really easy! Just make a pull request and help us by adding some more animals. Thanks!
+[https://animals-ascii.js.org](https://animals-ascii.js.org)
