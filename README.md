@@ -1,4 +1,6 @@
 # animals-ascii
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii?ref=badge_shield)
+
 Want to have some animals textart included in your project or console? Here you are!
 
 
@@ -22,6 +24,9 @@ Want to have some animals textart included in your project or console? Here you 
   </p>
   </div>
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii?ref=badge_large)
 
 ## Installation
 Use npm:
