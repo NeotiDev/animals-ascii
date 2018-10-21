@@ -1,6 +1,4 @@
 # animals-ascii
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii?ref=badge_shield)
-
 Want to have some animals textart included in your project or console? Here you are!
 
 
@@ -10,6 +8,9 @@ Want to have some animals textart included in your project or console? Here you 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"><!--
 --><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
   </p>
+  <p>
+  [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii?ref=badge_shield)
+  </p>
 
 <p>
   <a href="https://github.com/NeotiDev/animals-ascii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/NeotiDev/animals-ascii.svg?style=for-the-badge" alt="License"></a>
@@ -18,9 +19,6 @@ Want to have some animals textart included in your project or console? Here you 
   <p>
     <p>
     <a href="https://discord.gg/NqMA6xC"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
-  </p>
-  <p>
-  <img src="https://github.com/NeotiDev/animals-ascii/blob/master/examples/example.png?raw=true" alt="Example">
   </p>
   </div>
 
