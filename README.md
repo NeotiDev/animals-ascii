@@ -1,5 +1,9 @@
 # animals-ascii
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fanimals-ascii?ref=badge_shield)
+[![NPM Downloads](https://img.shields.io/npm/dt/animals-ascii.svg)](https://npmjs.com/package/animals-ascii)
+[![NPM Version](https://img.shields.io/npm/v/animals-ascii.svg)](https://npmjs.com/package/animals-ascii)
+[![Code Size](https://img.shields.io/github/languages/code-size/neotidev/animals-ascii.svg)](https://npmjs.com/package/animals-ascii)
+[![Code Language](https://img.shields.io/github/languages/top/neotidev/animals-ascii.svg)](https://npmjs.com/package/animals-ascii)
 
 Want to have some animals textart included in your project or console? Here you are!
 
